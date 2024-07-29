@@ -1,1 +1,1 @@
-# Frontend Mentor - QR code component
+# SSH
